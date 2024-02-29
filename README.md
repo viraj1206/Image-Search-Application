@@ -1,1 +1,1 @@
-# test
+This repository contains an Image Search App built with HTML, CSS, and JavaScript. The app allows users to search for images using the Unsplash API and displays the results dynamically on the page. Users can view the images and click on them to see more details on the Unsplash website. The app is responsive and features pagination to load more search results. Feel free to explore the code and contribute!
